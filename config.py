@@ -1,2 +1,2 @@
-TOKEN = "6377354775:AAG2rq2edhaeIahqtAUwp6w4XsKt893n_9A"
+TOKEN = "6024084961:AAGYhmg7lsI1C-QMfFUBdnhbhOBRRvujH4M"
 path = "status.json"
